@@ -49,6 +49,6 @@ In conclusion, the development of the Hygienewunder chatbot represents a
 significant advancement in automating customer interactions for a hygiene and cleaning
 products company. By employing a Retrieval-Augmented Generation (RAG) approach, the
 chatbot effectively addresses customer inquiries and provides tailored product 
-recommendations. While the system is currently functional and provides accurate 
+recommendations. While the system is currently functional and provides accurate 
 information, ongoing work focuses on integrating a secure payment solution to facilitate 
 seamless transactions. This enhancement will further streamline the sales process, making it more efficient and user-friendly for customers.
