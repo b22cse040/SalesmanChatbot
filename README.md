@@ -15,7 +15,7 @@ and contextual understanding.
 ### Why RAG?
 Retrieval-Augmented Generation (RAG) combines retrieval-based and generative models
 to enhance response accuracy and relevance. By retrieving relevant documents from a 
-predefined corpus, RAG ensures the chatbot generates both fluent and factually correct 
+predefined corpus, RAG ensures the chatbot generates both fluent and factually correct 
 answers. This approach is ideal for tasks like product recommendations and sales 
 automation, where reliable and accurate information is essential.
 
