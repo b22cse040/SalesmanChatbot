@@ -1,7 +1,6 @@
 services:
   - type: web
-    name: SalesmanChatbot
+    name: SalesManChatbot
     env: python
-    plan: free
-    buildCommand: pip install -r requirements.txt
-    startCommand: bash start.sh
+    buildCommand: cd SalesManChatbot && pip install -r requirements.txt
+    startCommand: cd SalesManChatbot && python app.py
