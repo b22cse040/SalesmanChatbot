@@ -3,4 +3,4 @@ services:
     name: SalesManChatbot
     env: python
     buildCommand: cd SalesManChatbot && pip install -r requirements.txt
-    startCommand: cd SalesManChatbot && python app.py
+    startCommand: cd SalesManChatbot && streamlit run app.py
